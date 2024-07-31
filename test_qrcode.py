@@ -3,7 +3,7 @@ import qrcode
 
 
 
-from project import code, custom_color, save_code
+from qrcode import code, custom_color, save_code
 
 def test_code():
     data = "Hello, QR Code!"
