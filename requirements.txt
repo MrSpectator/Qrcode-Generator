@@ -1,0 +1,18 @@
+## Requirements
+
+- Python 3.0
+- qrcode library
+- Pillow library
+- pytest (for testing)
+
+## Installation
+
+1. Clone the repository or download the script files.
+
+2. Install the required libraries:
+
+```bash
+> pip install qrcode[pil]
+> pip install pillow
+> pip install pytest
+```
